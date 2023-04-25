@@ -1,6 +1,6 @@
 # typescript mern amezona
 ## lessons
-1. Introductin
+1. Introduction
 2. install tools
 3. create typescript app by vite
 4. create git repository
